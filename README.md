@@ -7,4 +7,8 @@ Richard was here
 
 Richard was here ... edited within GIT
 
+
 Owen had just edited
+
+Richard was here again.
+
